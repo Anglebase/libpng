@@ -1,0 +1,7 @@
+[project]
+name = "libpng"
+version = "0.1.0"
+type = "static"
+
+[dependencies]
+zlib = { url = "@Anglebase/zlib", version = "0.1.0" }
